@@ -1,5 +1,5 @@
 // ---------------------------------------------------------
-// BCS-553 JAVA PROGRAMMING LAB - ALL PROGRAMS
+// BCSAI503 JAVA PROGRAMMING LAB - ALL PROGRAMS
 // SUBMITTED BY: ANSHIKA BATHAM
 // ---------------------------------------------------------
 
